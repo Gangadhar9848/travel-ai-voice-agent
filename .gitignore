@@ -1,0 +1,24 @@
+# dependencies & builds
+node_modules/
+dist/
+
+# secrets — never commit
+.env
+server/.env
+
+# editor / OS
+.DS_Store
+.vscode/
+
+# runtime data (personal data — never commit)
+server/logs/
+server/evals/reports/
+server/data/memory/
+
+# dataset (not public) — put your Excel in server/data/raw/ and run: npm --prefix server run import
+server/data/raw/*.xlsx
+server/data/customers.json
+server/data/destinations.json
+server/data/packages.json
+server/data/flights.json
+server/data/quiz.json

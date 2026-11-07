@@ -1,0 +1,40 @@
+[
+  {
+    "id": "C90001",
+    "firstName": "Astrid",
+    "lastName": "Example",
+    "email": "astrid@example.com",
+    "ageBand": "35-44",
+    "homeCity": "Stockholm",
+    "homeAirport": "ARN",
+    "language": "sv",
+    "tier": "Gold",
+    "preferredTravelType": "Beach",
+    "travelParty": "Family",
+    "avgTripBudgetEur": 2500,
+    "preferredSeason": "Summer",
+    "favoriteDestinations": ["Palma de Mallorca"],
+    "recentSearches": ["Malaga"],
+    "ancillariesLast3Bookings": ["MEAL"],
+    "bookings": []
+  },
+  {
+    "id": "C90002",
+    "firstName": "Lars",
+    "lastName": "Example",
+    "email": "lars@example.com",
+    "ageBand": "25-34",
+    "homeCity": "Copenhagen",
+    "homeAirport": "CPH",
+    "language": "da",
+    "tier": "Member",
+    "preferredTravelType": "City break",
+    "travelParty": "Couple",
+    "avgTripBudgetEur": 1200,
+    "preferredSeason": "Autumn",
+    "favoriteDestinations": ["Rome"],
+    "recentSearches": ["Lisbon"],
+    "ancillariesLast3Bookings": [],
+    "bookings": []
+  }
+]
